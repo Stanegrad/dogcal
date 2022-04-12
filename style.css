@@ -1,0 +1,42 @@
+body {
+    background-image: url("/image/joe-caione-qO-PIF84Vxg-unsplash.jpg"); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: auto;
+    font-family: poppins, sans-serif;
+}
+
+
+
+.input {
+    height: 10rem;
+    width: 100vh;
+    color: white; 
+    font-size: 2rem;
+    position: absolute;
+    top: 9rem;
+    left: 2rem;
+    
+}
+
+#title {
+    height: 3rem;
+    font-size: 2.5rem;
+    
+}
+
+.output {
+    height: 10rem;
+    width: 100vh;
+    color: white; 
+    font-size: 2rem;
+    position: absolute;
+    top: 22rem;
+    left: 2rem;
+}
+
+#output {
+    font-size: 4rem;
+}
